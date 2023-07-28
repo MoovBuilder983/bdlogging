@@ -12,3 +12,7 @@
 ## 0.0.3
 
 * Support for fatal exception reporting
+
+## 1.0.0
+
+* Minimum Dart SDK is now v3.0
